@@ -24,7 +24,7 @@ const updateStore = (state, newState) => {
 }
 
 // renders app after state changes
-const render = async (root, state) => {
+const render = (root, state) => {
     root.innerHTML = App(state)
 }
 
