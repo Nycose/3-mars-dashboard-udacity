@@ -1,5 +1,7 @@
 # Functional Programming with Javascript
 
+This project is for the [Udacity Intermediate JavaScript Developer Nanodegree](https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032).
+
 ## Student Instructions
 
 ### Big Picture
